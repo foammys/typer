@@ -1,4 +1,4 @@
-# 🧠 Typer Bot ![Release](https://img.shields.io/github/v/release/foammys/typer)
+# 💻 Typer Bot ![Release](https://img.shields.io/github/v/release/foammys/typer)
 
 > Бот [ВКонтакте](https://vk.com) для симуляции бесконечного печатанья сообщений
 
