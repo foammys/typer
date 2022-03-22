@@ -1,0 +1,18 @@
+#  ___      _   __  __
+#   |  \_/ |_| |__ |__|
+#   |   |  |   |__ |  \
+#
+# @copyright © 2022 foammy
+#
+
+# Настройки VK API
+longpoll:
+  # Токен доступа
+  token: token
+  # Версия
+  version: 5.131
+
+# Основные настройки
+messages:
+  # Включен ли бот
+  enabled: true
