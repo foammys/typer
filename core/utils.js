@@ -3,6 +3,7 @@
  *   |   |  |   |__ |  \
  *
  * @copyright © 2022 foammy
+ * @author hepller
  */
 
 // Экспорт функций
